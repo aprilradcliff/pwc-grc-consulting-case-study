@@ -8,8 +8,6 @@ This project demonstrates hands-on experience performing Governance, Risk, and C
 
 ## Certificate of Completion
 
-![PwC Cyber Security Consulting Virtual Experience Certificate](certificate-of-completion.png)
-
 📄 **Certificate:** [Certificate of completion.pdf](Certificate%20of%20completion.pdf)
 
 ---
